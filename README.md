@@ -13,7 +13,7 @@ App will demonstrate below things.
 
 run npm install
 
-run node server // to up local node server
+run node server
 
 click link to open home page : http://localhost:3000/dist/index.html
 

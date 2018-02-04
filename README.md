@@ -12,10 +12,6 @@ App will demonstrate below things.
 Steps to Run : 
 
 	1.run npm install
-	2.run node server
-	3.click link to open home page : http://localhost:3000/dist/index.html
+	2.run npm dev
+	3.click link to open home page : http://localhost:8080
 
-
-NOTE 
-
-run webpack cmd after changes in component
